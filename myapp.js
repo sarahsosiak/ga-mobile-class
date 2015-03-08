@@ -50,7 +50,7 @@ function drawThumbnails() {
 		thumbnail: 'resources/katyperry.jpg'
 	};
 
-	var group = [gymclass, katy];
+	var group = [katy];
 
 	myGallery.drawThumbnailsFromArray(group);
 }
